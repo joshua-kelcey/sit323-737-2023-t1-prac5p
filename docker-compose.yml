@@ -1,0 +1,6 @@
+version: "3"
+services:
+  app:
+    image: jkelcey/sit323-737-2023-t1-prac5p
+    ports:
+      - "8080:3040"
